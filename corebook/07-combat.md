@@ -70,7 +70,7 @@ Test `Close Combat x Body or Reflex` for both attack and defense. Whoever gets m
 
 ## Ranged Combat
 
-Different weapons are handle differently, so to make ranged attacks test `Ranged Combat` skill with the appropriate **attribute** depending on [Weapon Type](<09 Gear#Weapons>). Also take into consideration any penalties due to weapon [Range](<09 Gear#Range>) and [Distance](<02 Core Mechanics#Distance>) between you and the target.
+Different weapons are handle differently, so to make ranged attacks test `Ranged Combat` skill with the appropriate **attribute** depending on [Weapon Type](09-gear.md#Weapons Gear#Weapons>). Also take into consideration any penalties due to weapon [Range](09-gear.md#Range Gear#Range>) and [Distance](02-core-mechanics.md#Distance Core Mechanics#Distance>) between you and the target.
 
 **Effects**
 - **Hit(1)**: Target is hit and takes damage at DC equal to Weapon DC. You can assign hits to different targets, or accumulate multiple hits on the same target. **Default Limit: 2 hits**.
@@ -93,7 +93,7 @@ Wielding and using two weapons simultaneously is a matter of [#Splitting actions
 
 ## Mobility and Evasion
 
-Armor and cover are good ways to mitigate damage, but a better way is to not get hit in the first place. This can be achieved by being mobile throughout combat, and that means keeping on the move. You can take a Move action and test `Mobility x Reflexes` to close in some [Distance](<02 Core Mechanics#Distance>) and you can always choose Evasive effects to make yourself a hard target.
+Armor and cover are good ways to mitigate damage, but a better way is to not get hit in the first place. This can be achieved by being mobile throughout combat, and that means keeping on the move. You can take a Move action and test `Mobility x Reflexes` to close in some [Distance](02-core-mechanics.md#Distance Core Mechanics#Distance>) and you can always choose Evasive effects to make yourself a hard target.
 - **Sprint(1)**: Close in a moderate distance or reduce Long distance by one step.
 - **Fast Sprint(2)** Close in a long distance or reduce Extreme distance by one step.
 - **Evasive(1, 3, 6)**: Enemies take -1D penalty to attack you during this round. Can repeat up to -3D, but each new level of Evasive is more difficult to achieve.

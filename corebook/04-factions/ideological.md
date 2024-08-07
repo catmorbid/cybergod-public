@@ -1,5 +1,5 @@
 These factions base their actions and agenda on an ideology first and foremost. They may have secondary goals, but the ideology should be the cornerstone of their members' motivations for joining the faction.
 
-[Radical X](<Radical X>)
+[Radical X](radical-x.md)
 
-[Order of the Void](<Order of the Void>)
+[Order of the Void](order.md)
