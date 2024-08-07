@@ -103,7 +103,7 @@ When required, make an Ammo Save. Roll a D6, and on 6, you're out of ammo and ne
 ### Sidearms
 
 `Range Combat x Reflex`
-Sidearms are small **(Bulk 1)** and easily concealed under clothing. They are not suitable for main weapons in serious combat duty, but serve as easily concealable backup weapons. Sidearms can be used effectively one-handed, but a two-handed grip is more common, reducing their effective [[#Recoil]] by one degree.
+Sidearms are small **(Bulk 1)** and easily concealed under clothing. They are not suitable for main weapons in serious combat duty, but serve as easily concealable backup weapons. Sidearms can be used effectively one-handed, but a two-handed grip is more common, reducing their effective [#Recoil](#Recoil) by one degree.
 
 
 | Weapon                  | DC  | Range          | Recoil   | Grade    | Tags                   |
@@ -123,7 +123,7 @@ Sidearms are small **(Bulk 1)** and easily concealed under clothing. They are no
 ### Assault Weapons
 
 `Ranged Combat x Reflex`
-Assault Weapons are usually Medium sized weapons **(Bulk 2)** that require a *two-handed grip* for effective use. They are designed for moderate to long-ranged encounters. You can wield an assault Weapon in one hand, but this will increase [[#Recoil]] by one step.
+Assault Weapons are usually Medium sized weapons **(Bulk 2)** that require a *two-handed grip* for effective use. They are designed for moderate to long-ranged encounters. You can wield an assault Weapon in one hand, but this will increase [#Recoil](#Recoil) by one step.
 
 
 | Weapon              | DC  | Range          | Recoil   | Grade    | Tags                                  |
@@ -228,8 +228,6 @@ Melee weapon can be anything from a blunt object to a master-crafted nano-edge k
 | Medium | D8        | 2    |
 | Large  | D10       | 3    |
 | Huge   | D12       | 4    |
-
-[Melee Weapons List]
 
 | Melee Weapon       | DC | Range | Size   | Grade    | Tags                       |
 |--------------------|----|-------|--------|----------|----------------------------|
@@ -353,7 +351,7 @@ Black Market Drugs
 
 
 ## Utility Apps
-In addition to [[08 Cyber Warfare#Combat Hacks]], you can install various apps for different utility. The cybernetic brain, and many common communication devices or handheld computing devices already have applications for various mundane tasks, such as communications, 2D photography, audio and video recording and editing etc. But for any non-mundane task you can likely find and install an App. These do take an App Slot in your cybernetic Brain. You can also install them in any external devices.
+In addition to [08 Cyber Warfare#Combat Hacks](<08 Cyber Warfare#Combat Hacks>), you can install various apps for different utility. The cybernetic brain, and many common communication devices or handheld computing devices already have applications for various mundane tasks, such as communications, 2D photography, audio and video recording and editing etc. But for any non-mundane task you can likely find and install an App. These do take an App Slot in your cybernetic Brain. You can also install them in any external devices.
 
 ### Aptitude Suite
 `Advanced`, `2 slots`,`Decay D6`

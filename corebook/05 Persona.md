@@ -24,7 +24,7 @@ Origin does not have any defined mechanical effect, it's mostly there to add mor
 12. **War Zone Refugee**: You grew up in a small agricultural community that provided food for the Commonwealth. You enjoyed the simple life. Then one day some soldiers came by, told you war was coming. Then the tanks rolled in, and next you knew it bombs fell. You were forced to escape together with your family and few others, but wherever you went it seemed the War Zone followed. You had to kill to survive, steal to eat and each day, while a step closer to the promised refuge, your group grew more and more desperate. United at first, the hardships took their toll and eventually they argued, and after blood was drawn, they parted and then you were only a few. You met other groups, some seemed friendly at first, but they weren't friends, they just wanted what was yours. A large convoy of refugees offered some protection, but wherever there's large number of people, there's corruption, violence and crime. Somehow you made it, but it felt like a lifetime ago since you left, and the person who finally arrived at the GZ wasn't the person who left their home all those months ago.
 
 ## Faction
-Factions are listed on [[04 Factions]]. Read through the factions and choose the faction your character swears allegiance to. Faction is an important factor in the game, and as different factions have conflicting agendas and are outright in war, you should make your faction choices together with player group and Game Master.
+Factions are listed on [04 Factions](<04 Factions>). Read through the factions and choose the faction your character swears allegiance to. Faction is an important factor in the game, and as different factions have conflicting agendas and are outright in war, you should make your faction choices together with player group and Game Master.
 
 ## Engrams
 
@@ -133,7 +133,7 @@ Technical Aptitude defines your understanding of software and hardware and how t
 
 ## Resolve
 
-[[#Engrams]] determine the character's humanity, or how much is left of it. It also affects their **Resolve**, which is a pool of resources that can be spent to get out of sticky situations and invoke internal reserves of strength at times of desperation. It's a combination of persistence, luck and force of will.
+[#Engrams](#Engrams) determine the character's humanity, or how much is left of it. It also affects their **Resolve**, which is a pool of resources that can be spent to get out of sticky situations and invoke internal reserves of strength at times of desperation. It's a combination of persistence, luck and force of will.
 
 Resolve can be used in the following ways:
 
@@ -144,10 +144,10 @@ If the above base uses are not enough, Game Masters are encouraged to invent add
 
 ### Refreshing Resolve
 
-**Spent** Resolve is **Refreshed** by one point at the start of each game session. Resolve is usually fully refreshed after some [[#Structure of play|Downtime]], once the character has had some time to relax.
+**Spent** Resolve is **Refreshed** by one point at the start of each game session. Resolve is usually fully refreshed after some [Downtime](<#Structure of play>), once the character has had some time to relax.
 
 A **burned** resolve is much more difficult to Refresh. This is generally up to the GM how often they allow refreshing burned resolve. E.g. long downtime or going on a vacation or achieving a significant story goal may refresh burned resolve, to give a few examples. If the character has burned all their resolve, the may be forced on a leave of absence until they recover some.
 
 ### Improving the character
-You will be awarded Progression and Merits as you play the game and complete missions. Once you accumulate enough, you can spend them to improve your character. You can mark them on your character sheet. For more information on Progression and Merits see [[10 Gamemastering#Progression]] and [[10 Gamemastering#Merits]].
+You will be awarded Progression and Merits as you play the game and complete missions. Once you accumulate enough, you can spend them to improve your character. You can mark them on your character sheet. For more information on Progression and Merits see [10 Gamemastering#Progression](<10 Gamemastering#Progression>) and [10 Gamemastering#Merits](<10 Gamemastering#Merits>).
 

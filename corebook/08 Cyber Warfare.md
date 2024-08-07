@@ -28,9 +28,9 @@ If you can detect a combat hack in time, you can attempt to defend against it by
 
 ### Apps
 
-Each App is a separate weapon used in Combat Hacking. You can get Apps as part of your Gear, and all Apps are of **Advanced** grade. You maximum App capacity depends on your [[06 Frame#Cyber|Cyber]] attribute level
+Each App is a separate weapon used in Combat Hacking. You can get Apps as part of your Gear, and all Apps are of **Advanced** grade. You maximum App capacity depends on your [Cyber](<06 Frame#Cyber>) attribute level
 
-There are also a few [[09 Gear#Utility Apps|Utility Apps]], which use the same App slots, so you might want to consider those as well.
+There are also a few [Utility Apps](<09 Gear#Utility Apps>), which use the same App slots, so you might want to consider those as well.
 
 | App              | Grade    | Effect                                                                                                                               |
 | ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -54,7 +54,7 @@ To engage in cyberjacking, you must first reach the target at close range, then 
 
 Anyone with a cybernetic brain has a neural port and is susceptible to attack. The port may be protected by armor, so you might have to make sure they've taken enough damage to make the port accessible.
 
-**Resolve** cyberjacking as an [[02 Core Mechanics#Opposed Test]]. Attacker tests `Hacking x Cyber` while defender tests `Troubleshooting x Cyber`.
+**Resolve** cyberjacking as an [02 Core Mechanics#Opposed Test](<02 Core Mechanics#Opposed Test>). Attacker tests `Hacking x Cyber` while defender tests `Troubleshooting x Cyber`.
 
 **Compare successes:**
 - If *defender* wins, they can counter-attack and become the *attacker* next turn
@@ -87,7 +87,7 @@ To get started with cyberjacking, we must first understand the Cybernetic Brain.
 
 System Breach covers all kinds of cyber intrusion scenarios from hacking remote servers to breaching security measures in a VR simulation. System Breach is possible as long as you possess any suitable hardware, and does not require special augmentations to do it.
 
-System Breach is often a simple test of `Hacking x Cyber` for as long as the target system is a simple network of devices. Attacking a cybernetic brain on the other hand is covered by [[#Cyberjacking]].
+System Breach is often a simple test of `Hacking x Cyber` for as long as the target system is a simple network of devices. Attacking a cybernetic brain on the other hand is covered by [#Cyberjacking](#Cyberjacking).
 
 ### Resolution Steps
 

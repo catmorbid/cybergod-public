@@ -571,7 +571,7 @@ Avengers are flying terrors that can be major nuisance in the battlefield, emplo
 ### Order of the Void
 Order of the Void do not have a Cyber attribute, and they cannot be cyberjacked.
 
-Order of the Void encounters usually consists of 4-10 cultists, brainwashed loyally obey their leaders ( See [[#Security Forces]]), but lacking any formal training or even decent equipment. The cultists are usually led by a smaller team of Disciples, Paladins or Harbingers. The Blessed tend to be lightly armored, as armor often obstructs their transformation abilities, but they all have regenerative abilities to compensate.
+Order of the Void encounters usually consists of 4-10 cultists, brainwashed loyally obey their leaders ( See [#Security Forces](<#Security Forces>)), but lacking any formal training or even decent equipment. The cultists are usually led by a smaller team of Disciples, Paladins or Harbingers. The Blessed tend to be lightly armored, as armor often obstructs their transformation abilities, but they all have regenerative abilities to compensate.
 
 #### Blessed Disciple
 `Tough`
@@ -629,7 +629,7 @@ Harbingers are Cult leaders who gathers civilians to act as their meat shield an
 | Augment       | Effect                                                                                                                            | Energy |
 | :------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | Regeneration  | Heal Minor / Major wound                                                                                                          | 1/2    |
-| Zombification | Harbinger can render the target into a mindless husk that will follow simple orders. Long Duration. See [[#Zombified Civilian]].  | 1      |
+| Zombification | Harbinger can render the target into a mindless husk that will follow simple orders. Long Duration. See [#Zombified Civilian](<#Zombified Civilian>).  | 1      |
 | Mind Spy      | Gain telepathic link between the Harbinger and a target. You can share thoughts to them and pry on their thoughts. Long Duration. | 2      |
 
 | Attack       | Hit | DC  | Range | Tags |
