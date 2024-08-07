@@ -2,4 +2,4 @@
 
 GitHub Pages for Cybergod RPG Core Rules
 
-[[corebook/corebook]]
+[Cybergod: Reborn Core Book](corebook/corebook)
