@@ -1,6 +1,6 @@
 # 0x06 >> Frame
 
-Frame is the physical body that character uses as host for their consciousness. Consciousness is digital and if you die you can be *reborn* in another frame. You pick one frame from those available to your [#Faction](#Faction), but you can spend **Upgrade Points** to improve it further. Factions provide the resources to you and are also responsible for your Upgrades.
+Frame is the physical body that character uses as host for their consciousness. Consciousness is digital and if you die you can be *reborn* in another frame. You pick one frame from those available to your [Faction](04-factions.md), but you can spend **Upgrade Points** to improve it further. Factions provide the resources to you and are also responsible for your Upgrades.
 
 ## Attributes
 
@@ -15,9 +15,9 @@ Body represents constitution, strength, fitness and athletic ability. Use Body t
 
 **Max Power** determines how much damage you can deal in close combat, indicating how many **Attack Power** effects you can take without harming yourself.
 
-**Max Bulk** determines how much gear and armor you can carry without penalties. More info on [09-gear](09-gear.md Gear>)
+**Max Bulk** determines how much gear and armor you can carry without penalties. More info on [Section 09 Gear](09-gear.md)
 
-**Wounds Slots** determine how much damage your Frame can take before going down. Higher level Body helps sustain more damage and still remain functional. See [07 Combat#Damage and Mitigation](07-combat.md#Damage%20and%20Mitigation Combat#Damage and Mitigation>) on how wound slots work.
+**Wounds Slots** determine how much damage your Frame can take before going down. Higher level Body helps sustain more damage and still remain functional. See [Section 07 Combat/Damage and Mitigation](07-combat.md#Damage%20and%20Mitigation) on how wound slots work.
 
 | Body | Description | Max Power | Max Bulk | Wounds Slots                         |
 |------|-------------|-----------|----------|--------------------------------------|
@@ -30,7 +30,7 @@ Body represents constitution, strength, fitness and athletic ability. Use Body t
 
 Reflex determines hand-eye coordination and reaction time. Reflex is used to react to sudden situations, evade attacks and make ranged attacks.
 
-Reflex affects **Initiative** which determines how fast you can act when making a Conflicting test in combat. Read more on this in [07-combat](07-combat.md Combat>). At D10 or higher Reflex you also become **Ambidextrous** and can handle actions with either hand effectively. Without ambidexterity, you take a -1D penalty to using your off-hand, when relevant.
+Reflex affects **Initiative** which determines how fast you can act when making a Conflicting test in combat. Read more on this in [Combat System](07-combat.md). At D10 or higher Reflex you also become **Ambidextrous** and can handle actions with either hand effectively. Without ambidexterity, you take a -1D penalty to using your off-hand, when relevant.
 
 | Reflex | Description | Initiative | Ambidextrous |
 | ------ | ----------- | ---------- | ------------ |
@@ -54,7 +54,7 @@ Mind determines intellect, cunning, awareness and focus. Mind is is probably one
 
 Cyber determines the character's ability to interface with computers, hack devices, engage in electronic and cyber warfare and defend against cyber intrusions.
 
-Cyber determines how many **Apps** you can have installed. Apps are your weapons when using Combat Hacks. Read more about this on [08-cyber-warfare](08-cyber-warfare.md Cyber Warfare>).
+Cyber determines how many **Apps** you can have installed. Apps are your weapons when using Combat Hacks. Read more about this on [Section 08 Cyber Warfare](08-cyber-warfare.md).
 
 | Cyber | Description     | Apps |
 | ----- | --------------- | ---- |
@@ -86,8 +86,6 @@ Your initial Augments are determined by your **Frame**. Choose a frame from the 
 Many augments can be **Boosted** by spending additional energy. When some property can be boosted, it's marked with an arrow symbol ->, indicating the new boosted property.
 
 **Safety**: High level augments or those tagged as #Unsafe will trigger a *Decay Save* whenever they're used. The die size depends on the augment level and whether the augment has the unsafe tag. Only augments that require activation trigger *Decay Saves*.
-
-[Augment Safety table]
 
 | Augment Level | Safe | Unsafe |
 | ------------- | ---- | ------ |

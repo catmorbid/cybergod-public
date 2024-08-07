@@ -49,7 +49,7 @@ After the actions are declared, you can start by resolving them one at a time. E
 
 #### Initiative
 
-Initiative is only considered for Conflicting actions to decide who acts faster. Default initiative is based on [Reflex](#Attributes). In addition you can always take Initiative as Effect when resolving your action to act faster than the opposition.
+Initiative is only considered for Conflicting actions to decide who acts faster. Default initiative is based on [Reflex](06-frame.md#attributes#reflex). In addition you can always take Initiative as Effect when resolving your action to act faster than the opposition.
 
 #### Splitting actions
 Actions can be split between different simultaneous actions. For example, you can move and shoot or move and dive for cover, or shoot with a weapon in your both hands. You can't split between multiple same actions.
@@ -70,7 +70,7 @@ Test `Close Combat x Body or Reflex` for both attack and defense. Whoever gets m
 
 ## Ranged Combat
 
-Different weapons are handle differently, so to make ranged attacks test `Ranged Combat` skill with the appropriate **attribute** depending on [Weapon Type](09-gear.md#Weapons Gear#Weapons>). Also take into consideration any penalties due to weapon [Range](09-gear.md#Range Gear#Range>) and [Distance](02-core-mechanics.md#Distance Core Mechanics#Distance>) between you and the target.
+Different weapons are handle differently, so to make ranged attacks test `Ranged Combat` skill with the appropriate **attribute** depending on [Weapon Type](09-gear.md#Weapons ). Also take into consideration any penalties due to weapon [Range](09-gear.md#Range) and [Distance](02-core-mechanics.md#Distance) between you and the target.
 
 **Effects**
 - **Hit(1)**: Target is hit and takes damage at DC equal to Weapon DC. You can assign hits to different targets, or accumulate multiple hits on the same target. **Default Limit: 2 hits**.
@@ -89,11 +89,11 @@ Non-automatic weapons can also lay suppressive fire, if coordinated carefully so
 
 ## Dual weapons
 
-Wielding and using two weapons simultaneously is a matter of [#Splitting actions](<#Splitting actions>) between each hand. If you have Reflex of D8 or lower, you get an additional -1D on the off-hand attack. With Reflex D10 or higher you are ambidextrous and do not suffer additional penalties.
+Wielding and using two weapons simultaneously is a matter of [splitting actions](#Splitting%20actions) between each hand. If you have Reflex of D8 or lower, you get an additional -1D on the off-hand attack. With Reflex D10 or higher you are ambidextrous and do not suffer additional penalties.
 
 ## Mobility and Evasion
 
-Armor and cover are good ways to mitigate damage, but a better way is to not get hit in the first place. This can be achieved by being mobile throughout combat, and that means keeping on the move. You can take a Move action and test `Mobility x Reflexes` to close in some [Distance](02-core-mechanics.md#Distance Core Mechanics#Distance>) and you can always choose Evasive effects to make yourself a hard target.
+Armor and cover are good ways to mitigate damage, but a better way is to not get hit in the first place. This can be achieved by being mobile throughout combat, and that means keeping on the move. You can take a Move action and test `Mobility x Reflexes` to close in some [Distance](02-core-mechanics.md#Distance) and you can always choose Evasive effects to make yourself a hard target.
 - **Sprint(1)**: Close in a moderate distance or reduce Long distance by one step.
 - **Fast Sprint(2)** Close in a long distance or reduce Extreme distance by one step.
 - **Evasive(1, 3, 6)**: Enemies take -1D penalty to attack you during this round. Can repeat up to -3D, but each new level of Evasive is more difficult to achieve.
@@ -225,7 +225,7 @@ Whenever you take mental damage, you must make a **Mind Save**, rolling one die 
 
 ### Stress
 
-Whenever you take point of Stress, roll a **Stress Die** for each point of Stress accumulated so far. The size of the Stress Die depends on how many [#Engrams](#Engrams) you have total: less engrams make you less susceptible to stress.
+Whenever you take point of Stress, roll a **Stress Die** for each point of Stress accumulated so far. The size of the Stress Die depends on how many [Engrams](05-persona.md#Engrams) you have total: less engrams make you less susceptible to stress.
 
 If any of the **Stress Dice** show their maximum value (e.g. 6 on a D6 or 12 on a D12), you suffer immediate **Mental Breakdown**: roll on the table below.
 
