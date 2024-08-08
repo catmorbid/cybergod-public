@@ -2,6 +2,7 @@
 title: "Faction: The Syndicate"
 layout: default
 parent: Core Factions
+grand_parent: Factions
 ---
 ## The Syndicate
 

@@ -12,9 +12,3 @@ Faction also determines what kind gear and frames you can start with and which a
 
 > [!info] Players are a Team
 > Player characters start out working together. They are an established team with history and some degree of mutual trust. It's often easiest if everyone starts out in the same Faction. You can choose to mix it up, but you need to figure out together why they are a team, especially if there's conflicting agendas involved.
-
-[Core Factions](docs/corebook/04-factions/core/index.md)
-
-[Ideological Factions](docs/corebook/04-factions/ideological/index.md)
-
-[Mercenary Factions](docs/corebook/04-factions/merc/index.md)

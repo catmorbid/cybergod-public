@@ -2,6 +2,7 @@
 title: "Faction: The Radical X"
 layout: default
 parent: Ideological Factions
+grand_parent: Factions
 ---
 ## The Radical X
 

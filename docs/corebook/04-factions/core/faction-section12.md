@@ -2,6 +2,7 @@
 title: "Faction: Section 12"
 layout: default
 parent: Core Factions
+grand_parent: Factions
 ---
 ## Section 12
 

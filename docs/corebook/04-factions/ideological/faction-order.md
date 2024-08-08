@@ -2,6 +2,7 @@
 title: "Faction: Order of the Void"
 layout: default
 parent: Ideological Factions
+grand_parent: Factions
 ---
 ## The Order of the Void
 

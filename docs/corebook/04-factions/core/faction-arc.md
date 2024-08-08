@@ -2,6 +2,7 @@
 title: "Faction: ARC"
 layout: default
 parent: Core Factions
+grand_parent: Factions
 ---
 ## Advanced Regulator Corps (ARC)
 

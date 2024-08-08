@@ -2,6 +2,7 @@
 title: "Faction: The Cyberweavers"
 layout: default
 parent: Mercenary Factions
+grand_parent: Factions
 ---
 ## The Cyberweavers
 
