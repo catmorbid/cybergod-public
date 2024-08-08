@@ -21,7 +21,7 @@ Body represents constitution, strength, fitness and athletic ability. Use Body t
 
 **Max Bulk** determines how much gear and armor you can carry without penalties. More info on [Section 09 Gear](09-gear.md)
 
-**Wounds Slots** determine how much damage your Frame can take before going down. Higher level Body helps sustain more damage and still remain functional. See [Section 07 Combat/Damage and Mitigation](07-combat.md#Damage%20and%20Mitigation) on how wound slots work.
+**Wounds Slots** determine how much damage your Frame can take before going down. Higher level Body helps sustain more damage and still remain functional. See [Section 07 Combat/Damage and Mitigation](07-combat.md#damage-and-mitigation) on how wound slots work.
 
 | Body | Description | Max Power | Max Bulk | Wounds Slots                         |
 |------|-------------|-----------|----------|--------------------------------------|

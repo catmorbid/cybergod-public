@@ -34,7 +34,7 @@ If you can detect a combat hack in time, you can attempt to defend against it by
 
 Each App is a separate weapon used in Combat Hacking. You can get Apps as part of your Gear, and all Apps are of **Advanced** grade. You maximum App capacity depends on your [Cyber](06-frame.md#Cyber) attribute level
 
-There are also a few [Utility Apps](09-gear.md#Utility%20Apps), which use the same App slots, so you might want to consider those as well.
+There are also a few [Utility Apps](09-gear.md#utility-apps), which use the same App slots, so you might want to consider those as well.
 
 | App              | Grade    | Effect                                                                                                                               |
 | ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |

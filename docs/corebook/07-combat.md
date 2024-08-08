@@ -74,7 +74,7 @@ Test `Close Combat x Body or Reflex` for both attack and defense. Whoever gets m
 
 ## Ranged Combat
 
-Different weapons are handle differently, so to make ranged attacks test `Ranged Combat` skill with the appropriate **attribute** depending on [Weapon Type](09-gear.md#Weapons ). Also take into consideration any penalties due to weapon [Range](09-gear.md#Range) and [Distance](02-core-mechanics.md#Distance) between you and the target.
+Different weapons are handle differently, so to make ranged attacks test `Ranged Combat` skill with the appropriate **attribute** depending on [Weapon Type](09-gear.md#weapons ). Also take into consideration any penalties due to weapon [Range](09-gear.md#range) and [Distance](02-core-mechanics.md#distance) between you and the target.
 
 **Effects**
 - **Hit(1)**: Target is hit and takes damage at DC equal to Weapon DC. You can assign hits to different targets, or accumulate multiple hits on the same target. **Default Limit: 2 hits**.
