@@ -3,6 +3,7 @@ title: "Cybergod: Reborn"
 subtitle: Augmented Science Fiction Roleplaying Game
 author: Mikko Lainio
 date: 06.08.2024
+type: pages
 ---
 # Cybergod: Reborn
 **Augmented Science Fiction Roleplaying Game**
