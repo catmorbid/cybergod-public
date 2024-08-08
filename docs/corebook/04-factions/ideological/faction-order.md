@@ -1,6 +1,7 @@
 ---
 title: "Faction: Order of the Void"
-type: pages
+layout: default
+parent: Ideological Factions
 ---
 ## The Order of the Void
 

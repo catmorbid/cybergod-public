@@ -1,6 +1,7 @@
 ---
 title: "Faction: The Cyberweavers"
-type: pages
+layout: default
+parent: Mercenary Factions
 ---
 ## The Cyberweavers
 

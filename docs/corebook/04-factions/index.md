@@ -1,6 +1,7 @@
 ---
 title: Factions
-type: pages
+layout: default
+has_children: true
 ---
 # 0x04 >> Factions
 Beyond the utopian facade of the Mega Cities is a world in turmoil: War Zones mark areas of active conflict between the ARC and the Syndicate, and within the liberated Free Ports, the Order of the Void seeks influence and control in street-level confrontations, offering veiled aid for the common people. Where the war is not openly fought, it is fought from shadows and through political intrigue. Everyone looks to sway public opinion in their favor, to weaken the opposition by any means.
@@ -12,8 +13,8 @@ Faction also determines what kind gear and frames you can start with and which a
 > [!info] Players are a Team
 > Player characters start out working together. They are an established team with history and some degree of mutual trust. It's often easiest if everyone starts out in the same Faction. You can choose to mix it up, but you need to figure out together why they are a team, especially if there's conflicting agendas involved.
 
-[Core Factions](core.md)
+[Core Factions](docs/corebook/04-factions/core/index.md)
 
-[Ideological Factions](ideological.md)
+[Ideological Factions](docs/corebook/04-factions/ideological/index.md)
 
-[Mercenary Factions](merc.md)
+[Mercenary Factions](docs/corebook/04-factions/merc/index.md)

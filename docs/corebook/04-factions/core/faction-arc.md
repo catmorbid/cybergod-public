@@ -1,6 +1,7 @@
 ---
 title: "Faction: ARC"
-type: pages
+layout: default
+parent: Core Factions
 ---
 ## Advanced Regulator Corps (ARC)
 

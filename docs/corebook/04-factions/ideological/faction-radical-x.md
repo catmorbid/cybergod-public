@@ -1,6 +1,7 @@
 ---
 title: "Faction: The Radical X"
-type: pages
+layout: default
+parent: Ideological Factions
 ---
 ## The Radical X
 

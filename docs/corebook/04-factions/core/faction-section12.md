@@ -1,6 +1,7 @@
 ---
 title: "Faction: Section 12"
-type: pages
+layout: default
+parent: Core Factions
 ---
 ## Section 12
 

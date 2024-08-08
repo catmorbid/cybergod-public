@@ -22,7 +22,7 @@ Nuutti Vertanen, Joni Salmela, Niko Ekilä
 
 [03 Character Creation](03-chargen.md)
 
-[04 Factions](04-factions.md)
+[04 Factions](docs/corebook/04-factions/index.md)
 
 [05 Persona](05-persona.md)
 

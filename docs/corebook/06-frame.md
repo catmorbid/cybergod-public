@@ -4,7 +4,7 @@ type: pages
 ---
 # 0x06 >> Frame
 
-Frame is the physical body that character uses as host for their consciousness. Consciousness is digital and if you die you can be *reborn* in another frame. You pick one frame from those available to your [Faction](04-factions.md), but you can spend **Upgrade Points** to improve it further. Factions provide the resources to you and are also responsible for your Upgrades.
+Frame is the physical body that character uses as host for their consciousness. Consciousness is digital and if you die you can be *reborn* in another frame. You pick one frame from those available to your [Faction](docs/corebook/04-factions/index.md), but you can spend **Upgrade Points** to improve it further. Factions provide the resources to you and are also responsible for your Upgrades.
 
 ## Attributes
 

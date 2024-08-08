@@ -1,6 +1,7 @@
 ---
 title: "Faction: The Syndicate"
-type: pages
+layout: default
+parent: Core Factions
 ---
 ## The Syndicate
 
