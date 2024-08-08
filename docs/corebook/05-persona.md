@@ -1,3 +1,7 @@
+---
+title: Persona
+type: pages
+---
 # 0x05 >> Persona
 
 You are a soldier, an enhanced human working for one of the major factions. They pay your bills, you follow their orders, that's the deal. Why did you join? What did you do before? What are your personal goals and how do they align with your Faction?

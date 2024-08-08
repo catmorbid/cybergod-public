@@ -1,3 +1,7 @@
+---
+title: Factions
+type: pages
+---
 # 0x04 >> Factions
 Beyond the utopian facade of the Mega Cities is a world in turmoil: War Zones mark areas of active conflict between the ARC and the Syndicate, and within the liberated Free Ports, the Order of the Void seeks influence and control in street-level confrontations, offering veiled aid for the common people. Where the war is not openly fought, it is fought from shadows and through political intrigue. Everyone looks to sway public opinion in their favor, to weaken the opposition by any means.
 

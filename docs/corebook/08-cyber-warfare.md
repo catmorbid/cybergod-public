@@ -1,3 +1,7 @@
+---
+title: Cyber Warfare
+type: pages
+---
 # 0x08 >> Cyber Warfare
 
 ## Combat Hacks

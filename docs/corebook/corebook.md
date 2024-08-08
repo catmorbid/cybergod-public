@@ -1,5 +1,5 @@
 ---
-title: "Cybergod: Reborn"
+title: "Cybergod: Reborn - Core Rules"
 subtitle: Augmented Science Fiction Roleplaying Game
 author: Mikko Lainio
 date: 06.08.2024

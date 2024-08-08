@@ -1,3 +1,7 @@
+---
+title: "Faction: Order of the Void"
+type: pages
+---
 ## The Order of the Void
 
 The Order of the Void is a mysterious globally recognized spiritual cult that has roots in centuries old minor religious sects that were combined in to the Order of the Void just a few decades ago. The Order worships the **Sensible**, an allegedly extra-terrestrial intelligence that offers their followers terrifying gifts that alter their bodies forming them into supernatural enhanced monstrosities they use to terrorize their opponents and wreak havoc among the population. On the other hand they offer the weak and the destitute solace, comfort and communion, and claim to be a power for good. The Order has quickly gained massive popularity and its power and threat to Commonwealth is ever increasing.

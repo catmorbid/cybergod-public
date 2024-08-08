@@ -1,3 +1,7 @@
+---
+title: Gear
+type: pages
+---
 # 0x09 >> Gear
 
 The Commonwealth is a resource-based economy where resources are distributed by need. There's a complicated Credit system in place which is linked to an individual's DNA-based biosignature that is used to track Credit usage, but most of the time individuals do not need to worry about spending credits and can simply take what they require.

@@ -1,3 +1,7 @@
+---
+title: Character Creation
+type: pages
+---
 # Character Creation
 Follow these steps to create a character. You can read the details on the appropriate sections of the rulebook.
 

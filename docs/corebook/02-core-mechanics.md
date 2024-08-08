@@ -1,3 +1,7 @@
+---
+title: Core Mechanics
+type: pages
+---
 # 0x02 >> Core Mechanics
 
 ## Structure of play
